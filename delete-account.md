@@ -13,7 +13,7 @@ What is deleted: your account (name, email, plan), this month's AI credits and y
 
 What stays: your diary, workouts and settings are on your phone, not on our servers. Uninstall AuraFit to remove them.
 
-A Google Play subscription isn't cancelled by deleting your account: cancel it in Google Play → Payments & subscriptions.
+A subscription isn't cancelled by deleting your account: cancel it in Google Play → Payments & subscriptions, or, for one bought on the web, in Settings › Account › Plans › Manage subscription first.
 
 ---
 
@@ -29,6 +29,6 @@ A Google Play subscription isn't cancelled by deleting your account: cancel it i
 
 ما يبقى: سجلّك وتمارينك وإعداداتك على هاتفك وليست على خوادمنا. أزل تثبيت AuraFit لإزالتها.
 
-حذف الحساب لا يلغي اشتراك Google Play: ألغِه من Google Play ← الدفعات والاشتراكات.
+حذف الحساب لا يلغي الاشتراك: ألغِه من Google Play ← الدفعات والاشتراكات، أو للاشتراك المشترى عبر الويب من الإعدادات › الحساب › الخطط › إدارة الاشتراك أولًا.
 
 </div>
