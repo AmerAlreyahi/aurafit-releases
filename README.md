@@ -8,7 +8,7 @@
 
 For Android, in English and Arabic. Your diary stays on your phone.
 
-[![Latest release](https://img.shields.io/github/v/release/AmerZuher/aurafit-releases?label=download&style=for-the-badge)](https://github.com/AmerZuher/aurafit-releases/releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/AmerAlreyahi/aurafit-releases?label=download&style=for-the-badge)](https://github.com/AmerAlreyahi/aurafit-releases/releases/latest)
 ![Android 8.0+](https://img.shields.io/badge/Android-8.0%2B-3ddc84?style=for-the-badge&logo=android&logoColor=white)
 ![English · العربية](https://img.shields.io/badge/English%20%C2%B7%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-informational?style=for-the-badge)
 
@@ -61,7 +61,7 @@ Credits start over on the 1st of each month, and a failed AI answer costs nothin
 
 ## Install
 
-1. Open the [latest release](https://github.com/AmerZuher/aurafit-releases/releases/latest) on your phone and download **`auraFit_V….apk`**.
+1. Open the [latest release](https://github.com/AmerAlreyahi/aurafit-releases/releases/latest) on your phone and download **`auraFit_V….apk`**.
 2. Open the file. If Android asks, allow your browser or file manager to install apps.
 3. Accept the privacy policy and sign in with Google.
 
@@ -75,7 +75,7 @@ AuraFit updates itself from here: **Settings › App updates** (checked at most 
 - **No ads, no analytics, no tracking.** Your data is never sold.
 - **Pro cloud backup** can be encrypted with a password only you know.
 
-Read the full policy: [English](https://amerzuher.github.io/aurafit-releases/privacy/) · [العربية](https://amerzuher.github.io/aurafit-releases/privacy-ar/) · [Delete your account](https://amerzuher.github.io/aurafit-releases/delete-account/)
+Read the full policy: [English](https://ameralreyahi.github.io/aurafit-releases/privacy/) · [العربية](https://ameralreyahi.github.io/aurafit-releases/privacy-ar/) · [Delete your account](https://ameralreyahi.github.io/aurafit-releases/delete-account/)
 
 ## Questions
 
@@ -100,16 +100,16 @@ With Pro, sign in on the new phone and AuraFit offers your cloud backup. On Free
 <details markdown="1">
 <summary><b>How do I delete my account?</b></summary>
 
-In the app: **Settings › Account › Delete account**. Without the app: [see here](https://amerzuher.github.io/aurafit-releases/delete-account/).
+In the app: **Settings › Account › Delete account**. Without the app: [see here](https://ameralreyahi.github.io/aurafit-releases/delete-account/).
 </details>
 
 ## What's new
 
-Each version's changes are in its [release notes](https://github.com/AmerZuher/aurafit-releases/releases).
+Each version's changes are in its [release notes](https://github.com/AmerAlreyahi/aurafit-releases/releases).
 
 ## Help and feedback
 
-- **Found a problem or have an idea?** [Open an issue](https://github.com/AmerZuher/aurafit-releases/issues/new/choose) — there's a short form for each.
+- **Found a problem or have an idea?** [Open an issue](https://github.com/AmerAlreyahi/aurafit-releases/issues/new/choose) — there's a short form for each.
 - **About your account, subscription or privacy?** Email **amerzuher@outlook.com** (not a public page).
 
 ---
