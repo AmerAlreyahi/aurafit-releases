@@ -1,7 +1,7 @@
 ---
 title: Privacy policy
 permalink: /privacy/
-version: 2026-10-22.1
+version: 2026-11-15.1
 ---
 
 <!-- Generated from src/constants/privacyPolicy.ts by `npm run privacy:export`; edit it there. -->
@@ -24,13 +24,13 @@ Reminders you turn on (meals, water, weigh-in, workout) are scheduled on your ph
 
 ## Your account
 
-You sign in with Google (or Microsoft). Your account, stored with our database provider Supabase, holds:
+You sign in with Google. Your account, stored with our database provider Supabase, holds:
 
-- your name and email address, as Google or Microsoft give them (you can change the name in Settings › Account);
+- your name and email address, as Google gives them (you can change the name in Settings › Account);
 - your plan (Free, Pro or VIP) and, for Pro, when it ends;
 - how many AI credits you used this month.
 
-Your Google or Microsoft profile photo is shown in the app, loaded from their servers. A photo you choose instead stays on your phone: it isn't uploaded or backed up.
+Your Google profile photo is shown in the app, loaded from Google's servers. A photo you choose instead stays on your phone: it isn't uploaded or backed up.
 
 We use these only to run your account. We don't use them for advertising, and we don't sell or share them.
 
